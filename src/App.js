@@ -8,7 +8,7 @@ function App() {
 
   const img =[];
   const title = '';
-  const background = <img  className= 'background' alt ='ocean' src= '/images/ocean.jpg'/>
+  const background = <img  className= 'background' alt ='ocean' src= 'images/ocean.jpg'/>
   
   const animalFacts = 
   <div>
